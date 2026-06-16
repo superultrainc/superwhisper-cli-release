@@ -8,6 +8,7 @@ universal macOS binary, the Homebrew formula, and the install script.
 
 Homebrew:
 ```bash
+brew tap superultrainc/superwhisper-cli-release https://github.com/superultrainc/superwhisper-cli-release
 brew install superultrainc/superwhisper-cli-release/superwhisper
 ```
 
