@@ -2,17 +2,10 @@
 
 Public release artifacts for the [superwhisper](https://superwhisper.com) CLI.
 The CLI source lives in a private repo; this repo holds only the prebuilt
-universal macOS binary, the Homebrew formula, and the install script.
+universal macOS binary and the install script.
 
 ## Install
 
-Homebrew:
-```bash
-brew tap superultrainc/superwhisper-cli-release https://github.com/superultrainc/superwhisper-cli-release
-brew install superultrainc/superwhisper-cli-release/superwhisper
-```
-
-Install script:
 ```bash
 curl -fsSL https://raw.githubusercontent.com/superultrainc/superwhisper-cli-release/main/install.sh | bash
 ```
