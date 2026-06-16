@@ -2,8 +2,7 @@ class Superwhisper < Formula
   desc "Search and browse your superwhisper transcription history"
   homepage "https://superwhisper.com"
   url "https://github.com/superultrainc/superwhisper-cli-release/releases/download/v0.1.0/superwhisper-v0.1.0-macos-universal.tar.gz"
-  # Fill from checksums.txt on the v0.1.0 release.
-  sha256 "REPLACE_AFTER_FIRST_RELEASE"
+  sha256 "455175349ecd226384e89820f668c080701b7900d841243a3c2707a9aec73860"
   version "0.1.0"
   license "MIT"
 
